@@ -36,4 +36,4 @@ Kết quả mong đợi: Status: 200 OK
 Hình ảnh minh họa: 06. DELETE
 
 # Kết luận
-# Đề tài đã xây dựng quy trình kiểm thử REST API bằng Postman, bao gồm tạo Collection, gửi các HTTP request, viết assertion bằng JavaScript và chạy bộ kiểm thử tập trung. Các nội dung này giúp người học hiểu cách xác minh response ở tầng API và tổ chức test case có thể tái sử dụng. Kết quả cuối cùng cần được hoàn thiện bằng số liệu thực tế và ảnh chụp màn hình từ môi trường thực hành.  
+Đề tài đã xây dựng quy trình kiểm thử REST API bằng Postman, bao gồm tạo Collection, gửi các HTTP request, viết assertion bằng JavaScript và chạy bộ kiểm thử tập trung. Các nội dung này giúp người học hiểu cách xác minh response ở tầng API và tổ chức test case có thể tái sử dụng. Kết quả cuối cùng cần được hoàn thiện bằng số liệu thực tế và ảnh chụp màn hình từ môi trường thực hành.  
